@@ -1,4 +1,4 @@
-package com.macro.mall.common.service;
+package com.marco.mall.common.service;
 
 import java.util.List;
 import java.util.Map;
