@@ -8,4 +8,5 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/auth")
 @Tag(name = "AuthController", description = "统一认证授权接口")
 public class AuthController {
+    //TODO: 完善统一认证授权接口
 }
