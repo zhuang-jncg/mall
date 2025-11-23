@@ -37,7 +37,7 @@ public class UmsAdminServiceImpl implements UmsAdminService {
 
     @Autowired
     private UmsAdminLoginLogMapper loginLogMapper;
-
+    //登录功能
     @Override
     public SaTokenInfo login(String username, String password) {
         if (StrUtil.isEmpty(username) || StrUtil.isEmpty(password)){
